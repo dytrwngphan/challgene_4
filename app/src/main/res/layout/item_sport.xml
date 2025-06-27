@@ -30,7 +30,7 @@
             android:id="@+id/tvSportName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sport Name"
+            android:text="@string/sport_name"
             android:textSize="18sp"
             android:textStyle="bold"
             android:textColor="@color/black"
